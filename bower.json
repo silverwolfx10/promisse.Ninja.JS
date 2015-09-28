@@ -1,0 +1,26 @@
+{
+  "name": "promisse.Ninja.JS",
+  "version": "0.0.0",
+  "authors": [
+    "Cleber de Moraes Goncalves <cleber.programmer@hotmail.com>"
+  ],
+  "description": "Promete que uma funcao callback sera executado ao termino de uma execucao assincrona, nao tornanado o parametro callback obrigatorio",
+  "main": "promisse.js",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Bibizzy/promisse.Ninja.JS",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Ninja.JS": "*",
+    "apply.Ninja.JS": "*",
+    "push.Ninja.JS": "*"
+  }
+}
